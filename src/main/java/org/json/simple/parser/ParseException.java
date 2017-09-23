@@ -6,7 +6,7 @@ package org.json.simple.parser;
  * @author FangYidong<fangyidong@yahoo.com.cn>
  *
  */
-public class ParseException extends Exception {
+public class ParseException extends Exception implements Serializable{
 	private static final long serialVersionUID = -7880698968187728547L;
 	
 	public static final int ERROR_UNEXPECTED_CHAR = 0;
