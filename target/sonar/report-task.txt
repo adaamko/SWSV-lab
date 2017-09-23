@@ -1,0 +1,5 @@
+projectKey=com.googlecode.json-simple:json-simple
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.googlecode.json-simple:json-simple
+ceTaskId=AV6vUB8Do2aiSFKsUp8Z
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6vUB8Do2aiSFKsUp8Z
